@@ -13,9 +13,8 @@ $ ./itzmeow80 --identify
 ```
 Name      :  ItzMeow80
 Role      :  Developer
-Location  :  
+Location  :  Italy
 Focus     :  Cyber security, Reverse Engineering & Game Hacking
-Experience:  
 Status    :  [ ACTIVE ] — Building. Breaking. Defending.
 ```
 
