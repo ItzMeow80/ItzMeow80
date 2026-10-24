@@ -13,8 +13,9 @@ $ ./itzmeow80 --identify
 ```
 Name      :  ItzMeow80
 Role      :  Developer
-Location  :  Italy
+Location  :  
 Focus     :  Cyber security, Reverse Engineering & Game Hacking
+Experience:  
 Status    :  [ ACTIVE ] — Building. Breaking. Defending.
 ```
 
@@ -42,4 +43,16 @@ Status    :  [ ACTIVE ] — Building. Breaking. Defending.
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
+
+**Forensics & Security:**
+
+[![YARA](https://img.shields.io/badge/YARA-FF6B35?style=for-the-badge&logo=virustotal&logoColor=white)](https://virustotal.github.io/yara/)
+[![Windows Forensics](https://img.shields.io/badge/Windows_Forensics-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/security/)
+[![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=rockstargames&logoColor=white)](https://docs.fivem.net/)
+
+**Deploy:**
+
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
