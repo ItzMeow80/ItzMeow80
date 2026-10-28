@@ -4,6 +4,9 @@
 
 ---
 
+> [!CAUTION]
+> Older versions are deprecated - always run the latest tools from my repositories (JVM Inspector **v3**, MEOW DLL Tool **v8**).
+
 ### `whoami`
 
 ```
