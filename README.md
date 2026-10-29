@@ -1,6 +1,21 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FFB3&center=true&vCenter=true&width=850&lines=Security+Developer+%26+Forensics+Specialist;Systems+%7C+Threat+Detection+%7C+FiveM;Frontend+Developer+%7C+UI%2FUX+%7C+Enthusiast;Turning+Cheats+Into+Case+Studies;Discord+Threat+Intelligence" alt="Typing SVG" />
 </p>
+
+<table align="center">
+  <tr>
+    <td>📍</td>
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>🕒</td>
+    <td><img src="https://readmes.pages.dev/clock/europe-rome/nolabel/nooffset/size-16/px" alt="Local time in Italy" /> - same time</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="16" height="16" /></td>
+    <td><b>@rifinire</b></td>
+  </tr>
+</table>
 
 ---
 
@@ -58,3 +73,4 @@ Status    :  [ ACTIVE ] — Building. Breaking. Defending.
 
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
