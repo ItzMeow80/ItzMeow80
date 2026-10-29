@@ -1,0 +1,2 @@
+# Esclude il file grande dalle statistiche GitHub (linguist) per bilanciare la barra Languages
+Suspicious_DLL_Finder.ps1 linguist-vendored
